@@ -1,5 +1,5 @@
-package GUI;
-
+package GUI; //RENAME THIS TO WHATEVER YOUR PACKAGE NAME IS!!!!!!!!
+//READ THE STATEMENT ABOVE!!!
 import javax.swing.JFrame;
 import javax.swing.JButton;
 import javax.swing.JLabel;
